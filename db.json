@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,30 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Lucky",
+      "dogBreed": "Golden Retriever",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +43,539 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 21
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 22
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 23
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 24
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 25
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 26
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 27
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 28
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 29
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 30
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 31
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 32
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 33
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 34
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 35
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 36
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 37
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 38
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 39
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 40
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 41
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 42
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 43
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 44
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 45
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 46
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 47
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 48
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 49
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 50
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 51
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 52
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 53
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 54
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 55
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 56
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 57
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 58
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 59
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 60
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 61
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 62
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 63
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 64
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 65
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 66
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 67
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 68
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 69
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 70
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 71
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 72
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 73
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 74
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 75
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 76
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 77
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 78
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 79
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 80
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 81
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 82
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 83
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 84
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 85
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 86
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 87
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 88
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 89
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 90
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 91
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 92
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 93
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 94
+    },
+    {
+      "id": 95
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 96
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 97
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 98
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 99
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 100
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 101
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 102
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 103
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 104
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 105
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 106
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 107
+    },
+    {
+      "name": "noau",
+      "email": "noau@gmail.com",
+      "id": 108
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
